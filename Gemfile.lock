@@ -34,6 +34,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap
+  bundler
   sinatra
 
 RUBY VERSION
