@@ -5,3 +5,6 @@ require "sinatra"
 		erb :home
 	end
 
+	get '/old' do
+		erb :old
+	end
