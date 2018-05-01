@@ -1,0 +1,31 @@
+.container {
+	background-color: red;
+	text-align: center;
+	color: black;
+}
+
+
+.perspective {
+    width: 20px; /* You can set the dimensions to whatever you want */
+    height: 400px;
+    object-fit: cover;
+
+}
+
+.jumbotron {
+	background-color: red;
+	text-align: center
+}
+
+
+.img-fluid {
+	 width: 50%; /* You can set the dimensions to whatever you want */
+    height: 50%;
+    object-fit: cover;
+    text-align: center;
+
+}
+
+img {
+	width: 500px;
+}
