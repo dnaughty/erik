@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
 	background-color: red;
 	text-align: center;
 	color: black;
@@ -24,8 +24,8 @@
 
 
 .img-fluid {
-	 width: 50%; /* You can set the dimensions to whatever you want */
-    height: 50%;
+	 width: 70%; /* You can set the dimensions to whatever you want */
+    height: 70%;
     object-fit: cover;
     text-align: center;
 
@@ -37,4 +37,17 @@ img {
 
 h1 {
 	font-size: 3vh;
+}
+
+.navbar-toggle {
+	height: 50%;
+	width: 50%;
+}
+
+.jumbotron {
+	background-color: green;
+}
+
+.text {
+	text-align: center;
 }
